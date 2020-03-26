@@ -40,7 +40,7 @@ can not be changed.
 
 If a new board uses an architecture not in this list, a custom
 development platform can be created; see `Custom Development Platforms
-<https://platformio.org/platforms/creating_platform.html>`_.
+<https://docs.platformio.org/en/latest/platforms/creating_platform.html>`_.
 
 
 Embedded
